@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c:95:19:HAL_InitTick	12
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c:239:6:HAL_SuspendTick	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c:254:6:HAL_ResumeTick	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c:272:6:HAL_RTC_AlarmAEventCallback	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c:304:6:RTC_Alarm_IRQHandler	1

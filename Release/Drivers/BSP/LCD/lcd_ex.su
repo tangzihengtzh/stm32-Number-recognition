@@ -1,0 +1,5 @@
+../Drivers/BSP/LCD/lcd_ex.c:36:6:lcd_ex_st7789_reginit	8	static
+../Drivers/BSP/LCD/lcd_ex.c:134:6:lcd_ex_ili9341_reginit	8	static
+../Drivers/BSP/LCD/lcd_ex.c:236:6:lcd_ex_nt35310_reginit	8	static
+../Drivers/BSP/LCD/lcd_ex.c:922:6:lcd_ex_nt35510_reginit	8	static
+../Drivers/BSP/LCD/lcd_ex.c:1341:6:lcd_ex_ssd1963_reginit	8	static
